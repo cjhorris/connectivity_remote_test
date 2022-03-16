@@ -1,0 +1,17 @@
+Android:
+  platformName: "Android"
+  platformVersion: "8.1"
+  port: 8200
+  udid: "emulator-5554"
+  appiumPort: 4723
+  noReset: false
+  app: "app/ConnectivityRemoteTest.apk"
+
+iOS:
+  platformName: "iOS"
+  platformVersion: "15.4"
+  port: 8200
+  deviceName: "iPhone 12"
+  appiumPort: 4723
+  noReset: false
+  app: "app/ConnectivityRemoteTest.app"

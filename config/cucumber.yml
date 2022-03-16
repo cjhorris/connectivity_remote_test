@@ -1,0 +1,3 @@
+default: --publish-quiet
+ios: DEVICE=iOS
+android: DEVICE=Android
